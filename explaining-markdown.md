@@ -65,3 +65,21 @@ For simplicity's sake we'll pretend there is already an image file in your repos
 ![Silly octopus](octopus.png)
 
 You could also use an absolute link that references an externally hosted file. However absolute links can break easily as hosting websites change, so this may not be a good idea.
+
+> One last thing, how do I link to other pages?
+
+There are a few different ways of writing links in Markdown.
+
+One way uses square brackets `[]` and parentheses `()` like so:
+
+`[Google](https://www.google.com/)` [Google](https://www.google.com)
+
+You can also select some text, push `Cmd+K (on Mac)`, and pasting the link. This method automatically creates the brackets and parentheses for you.
+
+GitHub will also automatically convert typed URLs into working links:
+
+`https://www.google.com` https://www.google.com
+
+> Thank you, that's as much info as I can absorb in for one afternoon. I'll get to work writing pages very soon!
+
+You're welcome 🍻
