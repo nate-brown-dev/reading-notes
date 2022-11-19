@@ -76,10 +76,6 @@ One way uses square brackets `[]` and parentheses `()` like so:
 
 You can also select some text, push `Cmd+K (on Mac)`, and pasting the link. This method automatically creates the brackets and parentheses for you.
 
-GitHub will also automatically convert typed URLs into working links:
-
-`https://www.google.com` https://www.google.com
-
 > Thank you, that's as much info as I can absorb in for one afternoon. I'll get to work writing pages very soon!
 
 You're welcome 🍻
