@@ -8,9 +8,10 @@ I would define a growth mindset as a belief that a person is capable of expandin
 
 #### 3 ways to maintain the growth mindset
 
-1. Set defined, achievable goals that have meaningful checkpoints in order to maintain progress.
+1. Set defined, achievable goals that have meaningful checkpoints in order to maintain progress like this:
 
 CF 102 Day 1
+
 - [x] complete reading discussion 01
 - [x] complete lab 01a
 - [ ] complete lab 01b
