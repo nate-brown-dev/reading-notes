@@ -10,8 +10,7 @@ I would define a growth mindset as a belief that a person is capable of expandin
 
 1. Set defined, achievable goals that have meaningful checkpoints in order to maintain progress.
 
-##### CF 102 Day 1
-
+CF 102 Day 1
 - [x] complete reading discussion 01
 - [x] complete lab 01a
 - [ ] complete lab 01b
