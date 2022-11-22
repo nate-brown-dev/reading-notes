@@ -13,7 +13,7 @@
    - broad range of feature sets
    - from lightweight but has some features (vim)
    - to fully featured (VSCode)
-3. IDE (integrated design environment) includes source code editor/advanced text editor togther with feature (debugger, version control, etc)
+3. IDE (integrated design environment) includes source code editor/advanced text editor together with other development tools (debugger, version control, compiler for some languages, etc)
 
 ### Factors to consider when choosing a text editor
 
@@ -41,6 +41,6 @@
 
 ## Command cheat sheet
 
-I found this Mac terminal guide at iFixit (I enjoy their picture tutorials of "non-serviceable" Apple device teardowns!)
+I found this Mac terminal guide at iFixit (I also enjoy their picture tutorials of "non-serviceable" Apple device teardowns!)
 
 [MacOS Unix Command Cheat Sheet](https://www.ifixit.com/Wiki/MacOS_Unix_Commands)
