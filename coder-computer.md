@@ -2,9 +2,18 @@
 
 ## Thoughts on text editors
 
-- Code can be written in a text editor with no features (TextEdit/Notepad)
+- Code can be written in a text editor with no features (Notepad)
 - Just because it can, doesn't mean it should
 - Text editors with more features can make reading code easier and reduce errors/typos
+
+### 3 Classifications of text editors
+
+1. No features (Notepad)
+2. Advanced text editor
+   - broad range of feature sets
+   - from lightweight but has some features (vim)
+   - to fully featured (VSCode)
+3. IDE (integrated design environment) includes source code editor/advanced text editor togther with feature (debugger, version control, etc)
 
 ### Factors to consider when choosing a text editor
 
@@ -29,3 +38,9 @@
 - ***Code Completion*** has potential if it works better than the predictive text I'm familiar with
 - I'm sure I will need *Extensions* and *Emmet* later
 - I don't care about richly featured **Themes** besides having dark mode available
+
+## Command cheat sheet
+
+I found this Mac terminal guide at iFixit (I enjoy their picture tutorials of "non-serviceable" Apple device teardowns!)
+
+[MacOS Unix Command Cheat Sheet](https://www.ifixit.com/Wiki/MacOS_Unix_Commands)
