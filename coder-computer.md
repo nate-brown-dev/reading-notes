@@ -2,7 +2,7 @@
 
 ## Thoughts on text editors
 
-- Code can be written in a text editor with no features (Notepad)
+- Code can be written in a text editor with no features (TextEdit/Notepad)
 - Just because it can, doesn't mean it should
 - Text editors with more features can make reading code easier and reduce errors/typos
 
@@ -20,10 +20,12 @@
 4. Themes
    - Light/dark modes
    - Change appearance to user preference/environment
+5. Extensions
+   - Add features to your text editor
 
-### Which of these are important to me?
+### Which of these are seem important to me?
 
-- ***Syntax Highlighting*** looks magical
-- ***Code Completion*** definitely useful
-- *Themes* standard dark mode is fine, more than that seems whatever
-- **Emmet** I don't know enough to have an opinion
+- Of these, ***Syntax Highlighting*** looks magical
+- ***Code Completion*** has potential if it works better than the predictive text I'm familiar with
+- I'm sure I will need *Extensions* and *Emmet* later
+- I don't care about richly featured **Themes** besides having dark mode available
