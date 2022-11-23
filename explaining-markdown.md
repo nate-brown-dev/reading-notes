@@ -1,6 +1,8 @@
-# Transcript of Friday's discussion with N.T.F.
+# Transcript of Friday's discussion with N.T.F
 
-> [@non-technical-friend](mailto:non-technical-friend@seattle.gov) wrote:<br><br>What exactly is Markdown?
+> [@non-technical-friend](mailto:non-technical-friend@seattle.gov) wrote:  
+>
+> What exactly is Markdown?
 
 Markdown is a tool to generate web pages by writing them in a form of shorthand or "syntax".
 
@@ -32,17 +34,17 @@ If you write a bunch of Markdown in the box but don't include the `.md` extensio
 
 Markdown has 6 levels of headings for breaking content into sections. To set a line as a heading, include from 1 `#` to 6 `######`characters in front of the line, followed by a space:
 
-`# Heading Level 1`
+`## Heading Level 2`
 
-One `#` is the largest heading so you'll want it for your title. It displays like this:
+Two `##` is the second-largest heading so you'll want it for your title. It displays like this:
 
-# Heading Level 1
+## Heading Level 2
 
 The other heading levels work the same way, just remember that the more `#` characters you use, the smaller the headings get, like so:
 
-`#### Heading Level 4`
+`#### Heading Level 3`
 
-#### Heading Level 4
+### Heading Level 3
 
 And remember, there is no heading level 7 so don't try to use it!
 
@@ -50,7 +52,7 @@ And remember, there is no heading level 7 so don't try to use it!
 
 > That's enough about headings. What else can I do with my text?
 
-Markdown supports **bold**, *italic*, ~~strikethrough~~, **bold _nested_ italic**, ***all bold italic***, <sub>subscript</sub>, and <sup>superscript</sup>. See **bold** here:
+Markdown supports **bold**, *italic*, ~~strikethrough~~, **bold *nested* italic**, ***all bold italic***, subscript '< sub >', and superscript '< sup >'. See **bold** here:
 
 `**bold text**` will make **bold text**
 
@@ -58,7 +60,7 @@ I'll let you look the rest up on your own.
 
 > Fair enough. How do I add a picture?
 
-For simplicity's sake we'll pretend there is already an image file in your repository named `octopus.png`. You can display this image using a relative link (which references a file already in the repository) like this: 
+For simplicity's sake we'll pretend there is already an image file in your repository named `octopus.png`. You can display this image using a relative link (which references a file already in the repository) like this:
 
 `![Silly octopus](octopus.png)`
 
@@ -79,3 +81,5 @@ You can also select some text, push `Cmd+K (on Mac)`, and pasting the link. This
 > Thank you, that's as much info as I can absorb in for one afternoon. I'll get to work writing pages very soon!
 
 You're welcome 🍻
+
+[Back to home](../README.md)

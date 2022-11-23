@@ -19,7 +19,7 @@
 
 1. Code Completion
    - Like MS Word autocomplete, or Gmail predictive text, but for code
-   - Can sometimes finish brackets, close HTML tags, etc 
+   - Can sometimes finish brackets, close HTML tags, etc
 2. Emmet Shorthand support
    - Saves time when writing HTML/CSS
 3. Syntax Highlighting
@@ -44,3 +44,5 @@
 I found this Mac terminal guide at iFixit (I also enjoy their picture tutorials of "non-serviceable" Apple device teardowns!)
 
 [MacOS Unix Command Cheat Sheet](https://www.ifixit.com/Wiki/MacOS_Unix_Commands)
+
+[Back to home](../README.md)
