@@ -1,4 +1,6 @@
-# Transcript of Friday's discussion with N.T.F
+# Reading 1: Explaining Markdown
+
+## Transcript of Friday's discussion with N.T.F
 
 > [@non-technical-friend](mailto:non-technical-friend@seattle.gov) wrote:  
 >
@@ -82,4 +84,4 @@ You can also select some text, push `Cmd+K (on Mac)`, and pasting the link. This
 
 You're welcome 🍻
 
-[Back to home](../README.md)
+[Go back home](/projects/reading-notes/README.md)

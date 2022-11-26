@@ -1,4 +1,4 @@
-# The Coder's Computer
+# Reading 2: The Coder's Computer
 
 ## Thoughts on text editors
 
@@ -45,4 +45,4 @@ I found this Mac terminal guide at iFixit (I also enjoy their picture tutorials 
 
 [MacOS Unix Command Cheat Sheet](https://www.ifixit.com/Wiki/MacOS_Unix_Commands)
 
-[Back to home](../README.md)
+[Go back home](/projects/reading-notes/README.md)

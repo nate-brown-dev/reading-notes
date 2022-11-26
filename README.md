@@ -1,29 +1,14 @@
 # reading-notes
 
-## Code Fellows 102 Reading Notes
-
-### Explain a growth mindset in your own words
-
-I would define a growth mindset as a belief that a person is capable of expanding their intellect, skills, and abilities, and is both willing to and interested in taking the necessary steps to effect this expansion. The growth mindset recognizes that change is constant and that every experience is a learning opportunity from which some positive takeaway can be found. It seeks out new experiences and challenges rather than accepting the status quo.
-
-#### 3 ways to maintain the growth mindset
-
-1. Set defined, achievable goals that have meaningful checkpoints in order to maintain progress.
-   - When you reach a milestone, stop for a minute and celebrate it.
-2. Seek out people who demonstrate a growth mindset of their own.
-   - Don't imitate them, but use your understanding of what works for them to shape your own.
-     - This can come from people you know, people you know of, people in history, or even characters in media.
-3. Don't be afraid of detours, but don't go so far into rabbit holes that you lose sight of the big picture.
-
-### About me
+## About me
 
 My name is **Nate Brown**. I grew up in Eastern Washington 🏜️, then spent 21 years in the military 🪖, but my spiritual home is the west side 🌲.
 
 Some things I enjoy are
 
 - *cycling*
-- ***lifting weights***
-- **drinking *craft beer***
+- *lifting weights*
+- *drinking craft beer*
 
 I stopped ~~watching television~~ for good in 2021 and don't miss it. However I still love to read `science fiction` especially `1980s cyberpunk`. Some of my favorite authors are
 
@@ -37,20 +22,54 @@ Check out my [GitHub profile page](https://github.com/nate-brown-1)
 
 ## Table of Contents
 
-[Reading 1: Explaining Markdown](reading-notes/explaining-markdown.md)
+### Code 102 Reading Notes
 
-[Reading 2: The Coder's Computer](reading-notes/coder-computer.md)
+[Reading 1: Explaining Markdown](courses/code-102/01-explaining-markdown.md)
 
-[Reading 3]
+[Reading 2: The Coder's Computer](courses/code-102/02-coder-computer.md)
 
-[Reading 4]
+[Reading 3: Revisions and the Cloud](courses/code-102/03-revisions-cloud.md)
 
-[Reading 5]
+[Reading 4: Structure Web Pages with HTML](courses/code-102/04-structure-html.md)
 
-[Reading 6]
+[Reading 5: Design Web Pages with CSS](courses/code-102/05-design-css.md)
 
-[Reading 7]
+[Reading 6: Dynamic Web Pages with JavaScript](courses/code-102/06-dynamic-javascript.md)
 
-[Reading 8]
+[Reading 7: Programming with JavaScript](courses/code-102/07-programming-javascript.md)
 
-[Reading 9]
+[Reading 8: Loops and Logic](courses/code-102/08-operators-loops.md)
+
+[Thoughts on Growth Mindset](courses/code-102/growth-mindset.md)
+
+### Code 201 Reading Notes
+
+[Reading 1](courses/code-201/01-reading.md)
+
+[Reading 2](courses/code-201/02-reading.md)
+
+[Reading 3](courses/code-201/03-reading.md)
+
+[Reading 4](courses/code-201/04-reading.md)
+
+[Reading 5](courses/code-201/05-reading.md)
+
+[Reading 6](courses/code-201/06-reading.md)
+
+[Reading 7](courses/code-201/07-reading.md)
+
+[Reading 8](courses/code-201/08-reading.md)
+
+[Reading 9](courses/code-201/09-reading.md)
+
+[Reading 10](courses/code-201/10-reading.md)
+
+[Reading 11](courses/code-201/11-reading.md)
+
+[Reading 12](courses/code-201/12-reading.md)
+
+[Reading 13](courses/code-201/13-reading.md)
+
+[Reading 14](courses/code-201/14-reading.md)
+
+[Reading 15](courses/code-201/15-reading.md)
