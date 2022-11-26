@@ -2,4 +2,4 @@
 
 Notes go here
 
-[Go back home](/projects/reading-notes/README.md)
+[Go back home](/reading-notes/README.md)
