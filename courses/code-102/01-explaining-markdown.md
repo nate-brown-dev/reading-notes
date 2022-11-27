@@ -84,4 +84,4 @@ You can also select some text, push `Cmd+K (on Mac)`, and pasting the link. This
 
 You're welcome 🍻
 
-[Go back home](/projects/reading-notes/README.md)
+[Go back home](/reading-notes/)

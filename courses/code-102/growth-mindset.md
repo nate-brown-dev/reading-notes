@@ -13,4 +13,4 @@ I would define a growth mindset as a belief that a person is capable of expandin
      - This can come from people you know, people you know of, people in history, or even characters in media.
 3. Don't be afraid of detours, but don't go so far into rabbit holes that you lose sight of the big picture.
 
-[Go back home](/projects/reading-notes/README.md)
+[Go back home](/reading-notes/)

@@ -45,4 +45,4 @@ I found this Mac terminal guide at iFixit (I also enjoy their picture tutorials 
 
 [MacOS Unix Command Cheat Sheet](https://www.ifixit.com/Wiki/MacOS_Unix_Commands)
 
-[Go back home](/projects/reading-notes/README.md)
+[Go back home](/reading-notes/)
