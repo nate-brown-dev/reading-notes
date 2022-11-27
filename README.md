@@ -2,23 +2,11 @@
 
 ## About me
 
-My name is **Nate Brown**. I grew up in Eastern Washington 🏜️, then spent 21 years in the military 🪖, but my spiritual home is the west side 🌲.
+My name is **Nate Brown**. I grew up in Eastern Washington 🏜️, then spent 21 years in the military 🪖, but my spiritual home is the west (wet) side 🌲 of Washington.
 
-Some things I enjoy are
+I am currently a student at Code Fellows in Seattle, WA.
 
-- *cycling*
-- *lifting weights*
-- *drinking craft beer*
-
-I stopped ~~watching television~~ for good in 2021 and don't miss it. However I still love to read `science fiction` especially `1980s cyberpunk`. Some of my favorite authors are
-
-```text
-Neal Stephenson
-William Gibson
-Alfred Bester
-```
-
-Check out my [GitHub profile page](https://github.com/nate-brown-1)
+Read more at [About me](about-me.md) and check out my [GitHub profile page](https://github.com/nate-brown-1)
 
 ## Table of Contents
 
