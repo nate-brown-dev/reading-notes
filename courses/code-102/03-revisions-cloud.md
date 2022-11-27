@@ -30,8 +30,8 @@ A couple of reasons:
 If you already have a repository, you can add it into git using 'git clone url.git'. We already have a repository on GitHub, so to find the right address:
 
 1. navigate to GitHub
-2. click the green '< > Code' button
-3. look for the repository URL in the 'HTTPS' tab
+2. click the green `< > Code` button
+3. look for the repository URL in the `HTTPS` tab
 
 Git copies all of the files in the repository into a directory on your local hard disk, so you can edit them locally and then upload the changes to the repository later.
 
@@ -39,29 +39,29 @@ Git copies all of the files in the repository into a directory on your local har
 
 There are 3 stages to the process of incorporating ("pushing") changes you make to your files into the copies of the files in the repository. But before you start pushing changes you should check what git says changed compared to what you think you changed.
 
-You do this using 'git status' which will output a list of all the files in the local copy of your project that have been modified, any new files, and any files selected for deletion.
+You do this using `git status` which will output a list of all the files in the local copy of your project that have been modified, any new files, and any files selected for deletion.
 
-Once you check with 'git status' you are ready for the 3 step A-C-P process
+Once you check with `git status` you are ready for the 3 step A-C-P process
 
-1. Add your files from the working directory (local) to the index/staging area using 'git add'
+1. Add your files from the working directory (local) to the index/staging area using `git add`
    - there are 3 ways to add files
-     - individually 'git add file.txt'
-     - multiple files in batches 'git add file1.txt file2.txt'
+     - individually `git add file.txt`
+     - multiple files in batches `git add file1.txt file2.txt`
        - separate files with a single space
-     - all files at once 'git add --all'
-   - after adding your files, check they are in the staging area using 'git status'
-2. Once files are in the staging area, approve the changes using 'git commit'
+     - all files at once `git add --all`
+   - after adding your files, check they are in the staging area using `git status`
+2. Once files are in the staging area, approve the changes using `git commit`
    - when you commit changes, it's important to add an explanation of **why** you made the changes
    - the why needs to be readable and understandable in your change log
    - don't write *what* the changes are because it might not make any sense to someone else reading your change log
    - 2 ways to add a commit message
-     - 'git commit -m "change messsage"'
-     - in VSCode, if you run 'git commit' without the message flag '-m', it creates a tab where you can write a commit message. Say something, save message, and close it, and then 'git commit' will be able to finish
-     - a blank commit message will cause 'git commit' to abort, including if you save a blank message in VSCode
-3. After committing your changes with a message, you have to push them from your local computer to the repository (ie GitHub) using 'git push'
-   - in our case we are pushing from 'main' to 'origin' so we have to use the syntax 'git push origin main'
-   - by default git names the local copy of the repository 'master' but ours was renamed to 'main' when we created it
-   - 'origin' is the copy of the repository on the remote server (for us GitHub)
-   - we know that we are using 'main' because when we are inside the git repository in the terminal, the active directory looks like 'git:(main)'
+     - `git commit -m "change messsage"`
+     - in VSCode, if you run `git commit` without the message flag `-m`, it creates a tab where you can write a commit message. Say something, save message, and close it, and then `git commit` will be able to finish
+     - a blank commit message will cause `git commit` to abort, including if you save a blank message in VSCode
+3. After committing your changes with a message, you have to push them from your local computer to the repository (ie GitHub) using `git push`
+   - in our case we are pushing from `main` to `origin` so we have to use the syntax `git push origin main`
+   - by default git names the local copy of the repository `master` but ours was renamed to `main` when we created it
+   - `origin` is the copy of the repository on the remote server (for us GitHub)
+   - we know that we are using `main` because when we are inside the git repository in the terminal, the active directory looks like `git:(main)`
 
 [Go back home](/reading-notes/)
