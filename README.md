@@ -1,10 +1,12 @@
 # reading-notes
 
-## About me
+## Introduction
 
-My name is **Nate Brown**. I grew up in Eastern Washington 🏜️, then spent 21 years in the military 🪖, but my spiritual home is the west (wet) side 🌲 of Washington.
+My name is **Nate Brown**. I grew up in Eastern Washington 🏜️, then spent 21 years in the military 🪖, but my spiritual home is the west (wet) side 🌲 of Washington. I am currently a student at Code Fellows in Seattle, WA 
 
-I am currently a student at Code Fellows in Seattle, WA.
+## About this page
+
+This is where I keep all of my class notes, projects, and other stream of consciousness bits.
 
 Read more at [About me](about-me.md) and check out my [GitHub profile page](https://github.com/nate-brown-1)
 
