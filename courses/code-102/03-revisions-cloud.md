@@ -27,7 +27,7 @@ A couple of reasons:
 
 > How do I add the GitHub repository I already have into git?
 
-If you already have a repository, you can add it into git using 'git clone url.git'. We already have a repository on GitHub, so to find the right address:
+If you already have a repository, you can add it into git using `git clone url.git`. We already have a repository on GitHub, so to find its address:
 
 1. navigate to GitHub
 2. click the green `< > Code` button
@@ -42,6 +42,9 @@ There are 3 stages to the process of incorporating ("pushing") changes you make 
 You do this using `git status` which will output a list of all the files in the local copy of your project that have been modified, any new files, and any files selected for deletion.
 
 Once you check with `git status` you are ready for the 3 step A-C-P process
+- **Add**
+- **Commit**
+- **Push**
 
 1. Add your files from the working directory (local) to the index/staging area using `git add`
    - there are 3 ways to add files
