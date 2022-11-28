@@ -62,7 +62,7 @@ Nested elements: must be consistent, first open = last closed
 
 Void elements = tag that closes itself, ends with />
 
-Basic html anatomy
+### Basic html anatomy
 
 `<!DOCTYPE html>` = required, from early days of html/web
 
@@ -89,13 +89,13 @@ All page content goes here
 
 `</html>` closing html tag, wraps everything
 
-Images
+#### Images
 
 `<img src=“url” alt=“text if image doesn’t load” />`
 
 Unpaired tag, self closing
 
-Headings
+#### Headings
 
 6 levels of heading, like markdown
 
@@ -107,7 +107,7 @@ Etc
 
 `<!— HTMLS comments look like this —>`
 
-Lists
+#### Lists
 
 `<ul>` = unordered list
 
@@ -123,7 +123,7 @@ Lists
 
 `</ol>`
 
-Hyperlinks
+#### Hyperlinks
 
 `<a href=“url”>` Link Name `</a>`  
 href = hypertext reference
