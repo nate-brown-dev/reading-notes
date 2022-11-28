@@ -4,7 +4,7 @@
 
 My name is **Nate Brown**. I grew up in Eastern Washington 🏜️, then spent 21 years in the military 🪖, but my spiritual home is the west (wet) side 🌲 of Washington. I am currently a student at Code Fellows in Seattle, WA.
 
-Read more at [About Me](about-me.md), see my thoughts about the [Growth Mindset](growth-mindset.md) and check out my [GitHub profile page](https://github.com/nate-brown-1)
+Read more at [About Me](about-me.md), see my thoughts about the [Growth Mindset](growth-mindset.md), and check out my [GitHub profile page](https://github.com/nate-brown-1)
 
 ## About this page
 
