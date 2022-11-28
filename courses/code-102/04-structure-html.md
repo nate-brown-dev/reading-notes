@@ -1,5 +1,7 @@
 # Code 102 Reading 4
 
+Notes on wireframing and simple HTML tags
+
 ## Wireframing
 
 Process of organizing UX before writing code by sketching, drawing on whiteboards, etc
@@ -16,12 +18,21 @@ Plain black and white diagrams
 
 ### Wireframing steps
 
-1. Do research, learn. About audience, requirements, use cases, product analysis, competitor research
+1. Do research
+   - audience requirements
+   - use cases
+   - product analysis
+   - competitor research
 2. Prepare and organize research
 3. Map user flow, information architecture
-         User flow = where they come from
-         Information architecture = organization so users can find things without help
-4. Draft/sketch, make it down and dirty / not over detailed
+   - User flow
+     - where users come from, marketing / socials / referrals etc
+   - Information architecture
+     - organization so users can find things without help
+     - reduce customer service requirements for simple task help
+4. Draft/sketch
+   - make it down and dirty
+   - not over detailed
 5. Add detail and begin tests
 6. Transition from wireframing to prototyping
 

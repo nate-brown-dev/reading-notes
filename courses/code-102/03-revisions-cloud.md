@@ -42,6 +42,7 @@ There are 3 stages to the process of incorporating ("pushing") changes you make 
 You do this using `git status` which will output a list of all the files in the local copy of your project that have been modified, any new files, and any files selected for deletion.
 
 Once you check with `git status` you are ready for the 3 step A-C-P process
+
 - **Add**
 - **Commit**
 - **Push**
