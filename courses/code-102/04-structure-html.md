@@ -76,7 +76,7 @@ Keywords, page description for search, CSS, character set, etc
 
 `</head>`
 
-`<meta>`charset=“utf-8”> = UTF-8 character set, preferred by HTML5
+`<meta charset=utf-8>` = UTF-8 character set, preferred by HTML5
 
 `<meta name=“viewport” content=“width=device-width”>`
 Force page width for mobile
