@@ -17,7 +17,7 @@
 ### Function syntax
 
 ``` javascript
-Function name(parameter1,p2,p3) {
+function name(parameter1,p2,p3) {
 // function code
 }
 ```
@@ -38,22 +38,22 @@ Assignment operator `=`
 Assigns value to variable
 NOT THE SAME as `==` or `===`
 
-`+`
-`-`
-`*`
-`**`    power/exponent
-`/`
-`%`     modulus/remainder
-`++`    increment
-`—`     decrement
+`+`  
+`-`  
+`*`  
+`**`    power/exponent  
+`/`  
+`%`     modulus/remainder  
+`++`    increment  
+`—`     decrement  
 
 Other assignment operators
 
-`+=` x+=y | x = x+y
-`-=` x-=y | x = x-y
-`*=` x*=y | x = x*y
-`/=` x/=y | x = x/y
-`%=` x%=y | x = x%y
+`+=` x+=y | x = x+y  
+`-=` x-=y | x = x-y  
+`*=` x*=y | x = x*y  
+`/=` x/=y | x = x/y  
+`%=` x%=y | x = x%y  
 `**=` x**=y | x = x**y
 
 Adding strings
@@ -73,25 +73,25 @@ x += " salad" = "word salad"
 
 ### Comparison operators
 
-`==`    equal to
-`===`   equal value/type
-`!=`    not equal to
-`!===`  not equal value/type
-`>`
-`<`
-`>=`
-`<=`
+`==`    equal to  
+`===`   equal value/type  
+`!=`    not equal to  
+`!===`  not equal value/type  
+`>`  
+`<`  
+`>=`  
+`<=`  
 `?`     Ternary operator
 
 ### Logical operators
 
-`&&`    logical and
-`||`    logical or
+`&&`    logical and  
+`||`    logical or  
 `|`     logical not
 
 ### Type operators
 
-`typeof`
+`typeof`  
 `instanceof`
 
 [Go back home](/reading-notes/)
