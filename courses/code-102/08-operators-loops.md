@@ -89,6 +89,37 @@ A `while` loop evaluates as long as its condition is ‘true’.
 
 > It sounds like they do exactly the same thing!
 
-You’re right, and my reference doesn’t make it any clearer. You’ll just have to accept these answers for now!
+They make a lot more sense when you write them out in JavaScript syntax.
+
+Here's a `for` loop:
+
+``` javascript
+for (let x = 1; x < 10; x++) {
+    console.log(x);
+}
+```
+
+Now we can break down the components of the `for` loop
+
+for (initialization; condition; increment) {
+    statement;
+}
+
+1. initialization = what value does the loop start with?
+2. condition = is the current value of the loop true or false? (if false, the loop breaks)
+3. increment = if the current state is true, apply some change to the current value (ie increment, add 1)
+4. statement = do something, then restart the loop
+
+And here's a `while` loop:
+
+``` javascript
+let x = 1;
+while( x != 10) {
+    x++;
+    console.log(x);
+}
+```
+
+Both of these loops do exactly the same thing!
 
 [Go back home](/reading-notes/)
