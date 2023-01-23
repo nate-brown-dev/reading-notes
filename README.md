@@ -32,7 +32,7 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 ## Code 201 - Foundations of Software Development
 
-[Reading 1](courses/code-201/01-reading.md)
+[Reading 1](courses/code-201/class-01.md)
 
 [Reading 2](courses/code-201/02-reading.md)
 
