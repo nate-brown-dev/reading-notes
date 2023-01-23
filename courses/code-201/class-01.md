@@ -5,7 +5,9 @@
 ### 1. Compose a short poem describing how HTTP sends data between computers
 
 Client queries server
+
 Server replies with packets
+
 Client parses answer
 
 ### Describe how HTML, CSS, and JS files are “parsed” in the browser
