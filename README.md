@@ -12,7 +12,7 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 [Reading 1: Explaining Markdown](courses/code-102/01-explaining-markdown.md)
 
@@ -30,7 +30,7 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Reading 8: Loops and Logic](courses/code-102/08-operators-loops.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 [Reading 1](courses/code-201/01-reading.md)
 
@@ -61,3 +61,7 @@ This is where I keep all of my class notes, projects, and other stream of consci
 [Reading 14](courses/code-201/14-reading.md)
 
 [Reading 15](courses/code-201/15-reading.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
