@@ -42,7 +42,7 @@ An HTML attribute is a property that is assigned to an HTML element but does not
 <element attribute="property">element</element>
 ```
 
-A common attribute is `class` 
+A common attribute is `class`
 
 ### Describe the Anatomy of an HTMl element
 
@@ -65,7 +65,7 @@ However there are "self closing" tags that consist of a single piece
 
 note that the tag closes with space and backslash at the end
 
-### What is the Difference between <article> and <section> element tags
+### What is the Difference between `<article>` and `<section>` element tags
 
 I've read at least 5 different explanations of the difference between these two tags and I can't find any explanation that doesn't use self-referential definitions or circular logic.
 
@@ -108,9 +108,9 @@ the first step used by many web designers, after defining the purpose/content of
 - the question is "what do I want my page to do?"
 - until this question is answered the page is just a meaningless, disordered collection of information
 
-### Why should you use an <h1> element over a <span> element to display a top level heading?
+### Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
 
-`<h1>` is a semantic element, which means the browswer recognizes it as having organizational meaning (top level heading). <span> can be used to create an element that looks like that heading but doesn't carry the meaning.
+`<h1>` is a semantic element, which means the browswer recognizes it as having organizational meaning (top level heading). `<span>` can be used to create an element that looks like that heading but doesn't carry the meaning.
 
 ### What are the benefits of using semantic tags in our HTML?
 
