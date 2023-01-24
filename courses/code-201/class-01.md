@@ -93,7 +93,7 @@ however an `<article>` can be divided into `<section>` (s) or a `<section>` can 
 - The information in the metadata is used when displaying search engine results as the page "title" and "content"
 - however there are additional unused elements of the `<meta>` tag that are no longer used by search engines because of bad website/creator behavior
 
-### How is the <meta> HTML tag used when specifying metadata
+### How is the `<meta>` HTML tag used when specifying metadata
 
 the `<meta>` tag can be used to define the author, describe the content, and specify the character set of the page
 

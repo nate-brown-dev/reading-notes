@@ -34,7 +34,7 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Reading 1](courses/code-201/class-01.md)
 
-[Reading 2](courses/code-201/02-reading.md)
+[Reading 2](courses/code-201/class-02.md)
 
 [Reading 3](courses/code-201/03-reading.md)
 
