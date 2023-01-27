@@ -42,7 +42,7 @@
 
 `const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
 
-### List five shorthand operators for assignment in javascript and describe what they do.
+### List five shorthand operators for assignment in javascript and describe what they do
 
 `x = f()` -> x = f(x)
 `x += f()` -> x = x + f(x)
@@ -50,7 +50,7 @@
 `x *= f()` -> x = x * f(x)
 `x /= f()` -> x = x / f(x)
 
-### Read the code below and evaluate the last expression and explain what the result would be and why.
+### Read the code below and evaluate the last expression and explain what the result would be and why
 
  let a = 10;
  let b = 'dog';
@@ -59,11 +59,11 @@
  // evaluate this
  (a + c) + b;
 
-### Describe a real world example of when a conditional statement should be used in a JavaScript program.
+### Describe a real world example of when a conditional statement should be used in a JavaScript program
 
 - conditional statements can be used to respond to user input with multiple response possibilities
 
-### Give an example of when a Loop is useful in JavaScript.
+### Give an example of when a Loop is useful in JavaScript
 
 - loop can be used to repeat an action a specific number of times with a counter
 

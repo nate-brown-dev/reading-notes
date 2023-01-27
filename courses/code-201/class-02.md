@@ -24,7 +24,7 @@
 - like this `<abbr title="Mlle">Madamoiselle</abbr>`
 
 ## CSS
- 
+
 ### What are ways we can apply CSS to our HTML?
 
 - inline (`style="somestyle"` attribute, in HTML element)
@@ -36,7 +36,7 @@
 - internal styles make site maintenance difficult and time/labor intensive
 - they make code hard to read as the CSS is mixed with HTML
 
-### Review the block of code below and answer the following questions:
+### Review the block of code below and answer the following questions
 
 ``` css
    h2 {
@@ -62,15 +62,15 @@
 
 a `'string'` is enclosed in single or double quote marks
 
-### List 4 types of JavaScript operators.
+### List 4 types of JavaScript operators
 
 - arithmetic, assignment, logical, conditional
 
-### Describe a real world Problem you could solve with a Function.
+### Describe a real world Problem you could solve with a Function
 
 - the function can take user input and verify that it meets certain conditions, or else request it again
 
-### An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+### An if statement checks a __ and if it evaluates to ___, then the code block will execute
 
 - checks a `statement`
 - executes if the statement evaluates to `true`
@@ -79,7 +79,7 @@ a `'string'` is enclosed in single or double quote marks
 
 `else if` allows the statement to be evaluated for multiple `true` conditions
 
-### List 3 different types of comparison operators.
+### List 3 different types of comparison operators
 
 - `==` equal
 - `===` strict equal
