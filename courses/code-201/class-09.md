@@ -13,7 +13,7 @@
 - well laid out forms are easier to read and complete
 - if forms are too hard to use, users/customers might leave and go to a competitor
 
-### List 5 form elements and explain their importance.
+### List 5 form elements and explain their importance
 
 - form - container that starts form
 - label - describes associated form input fields
