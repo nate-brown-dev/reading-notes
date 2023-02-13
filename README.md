@@ -60,7 +60,7 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Reading 14](courses/code-201/class-14.md)
 
-[Reading 15](courses/code-201/class-15.md)
+[Psychological Safety](courses/code-201/psych-safety.md)
 
 ## Code 301 - Intermediate Software Development
 
