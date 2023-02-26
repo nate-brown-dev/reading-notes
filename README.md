@@ -64,4 +64,36 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 ## Code 301 - Intermediate Software Development
 
+[Reading 1](courses/code-301/class-01.md)
+
+[Reading 2](courses/code-301/class-02.md)
+
+[Reading 3](courses/code-301/class-03.md)
+
+[Reading 4](courses/code-301/class-04.md)
+
+[Reading 5](courses/code-301/class-05.md)
+
+[Reading 6](courses/code-301/class-06.md)
+
+[Reading 7](courses/code-301/class-07.md)
+
+[Reading 8](courses/code-301/class-08.md)
+
+[Reading 9](courses/code-301/class-09.md)
+
+[Reading 10](courses/code-301/class-10.md)
+
+[Reading 11](courses/code-301/class-11.md)
+
+[Reading 12](courses/code-301/class-12.md)
+
+[Reading 13](courses/code-301/class-13.md)
+
+[Reading 14](courses/code-301/class-14.md)
+
+[Reading 14: DEI](courses/code-301/class-14-dei.md)
+
+[Reading 15](courses/code-301/class-15.md)
+
 ## Code 401 - Advanced Software Development
