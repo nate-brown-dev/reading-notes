@@ -4,11 +4,15 @@
 
 ### What is a “component”?
 
+definition from https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
+
 - a modular, portable, replaceable, reusable set of functionality
 - a software object that interacts with other components
 - a unit of composition with specific interface and dependencies only
 
 ### What are the characteristics of a component?
+
+list from above site
 
 - reusability
   - can be used in different situations for different tasks
@@ -24,6 +28,8 @@
   - minimal external dependencies
 
 ### What are the advantages of using component-based architecture?
+
+list from above site
 
 - ease of deployment
 - reduced cost
