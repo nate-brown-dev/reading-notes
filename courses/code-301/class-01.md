@@ -1,16 +1,14 @@
-# Notes go here
+# Code 301 Reading 1
 
-## Code 301 Reading 1
+## Component-Based Architecture
 
-### Component-Based Architecture
-
-What is a “component”?
+### What is a “component”?
 
 - a modular, portable, replaceable, reusable set of functionality
 - a software object that interacts with other components
 - a unit of composition with specific interface and dependencies only
 
-What are the characteristics of a component?
+### What are the characteristics of a component?
 
 - reusability
   - can be used in different situations for different tasks
@@ -25,7 +23,7 @@ What are the characteristics of a component?
 - independent
   - minimal external dependencies
 
-What are the advantages of using component-based architecture?
+### What are the advantages of using component-based architecture?
 
 - ease of deployment
 - reduced cost
@@ -36,18 +34,18 @@ What are the advantages of using component-based architecture?
 - ease of maintenance/evolution
 - independent
 
-### What is Props and How to Use it in React
+## What is Props and How to Use it in React
 
-What is “props” short for?
+### What is “props” short for?
 
 - properties
 
-How are props used in React?
+### How are props used in React?
 
 - props are used to pass data from parent to child components
 - props data is read only
 
-What is the flow of props?
+### What is the flow of props?
 
 - props are passed one-way from parent to child components
 - props work like function arguments
