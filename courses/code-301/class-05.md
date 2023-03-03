@@ -1,8 +1,6 @@
 # Notes go here
 
-## Code 301 Reading 1
-
-[Go back home](/reading-notes/)
+## Code 301 Reading 5
 
 ## React Docs - Thinking in React
 
@@ -58,3 +56,5 @@
 - map takes a function as an argument and applies it to all the elements in an array
 - the return of map is an array in which each elements has been passed to the lower order function
 - this is exactly how a higher order function works, it takes a function as an argument
+
+[Go back home](/reading-notes/)
