@@ -18,12 +18,27 @@
 
 ### What does a GET do?
 
-
+- a GET is a request for resources
+- when a browser GETs something, it's requesting the human readable version
 
 ### What does a POST do?
 
+- POST is used by one system to add something to another system
+
 ### What does PUT do?
 
+- PUT is used by one system to replace something in another system
+
 ### What does PATCH do?
+
+- PATCH is used for partial updates (instead of PUT for complete replacement)
+
+## API Keys
+
+- I have API keys from all 4 APIS
+  - LocationIQ
+  - Weatherbit
+  - Yelp
+  - TMDB
 
 [Go back home](/reading-notes/)
