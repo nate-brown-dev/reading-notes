@@ -90,8 +90,6 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Reading 13](courses/code-301/class-13.md)
 
-[Reading 14](courses/code-301/class-14.md)
-
 [Reading 14: DEI](courses/code-301/class-14-dei.md)
 
 [Reading 15](courses/code-301/class-15.md)
