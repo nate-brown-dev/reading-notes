@@ -95,3 +95,73 @@ This is where I keep all of my class notes, projects, and other stream of consci
 [Reading 15](courses/code-301/class-15.md)
 
 ## Code 401 - Advanced Software Development
+
+[Reading 1](courses/code-401/class-01.md)
+
+[Reading 2](courses/code-401/class-02.md)
+
+[Reading 3](courses/code-401/class-03.md)
+
+[Reading 4](courses/code-401/class-04.md)
+
+[Reading 5](courses/code-401/class-05.md)
+
+[Reading 6](courses/code-401/class-06.md)
+
+[Reading 7](courses/code-401/class-07.md)
+
+[Reading 8](courses/code-401/class-08.md)
+
+[Reading 9](courses/code-401/class-09.md)
+
+[Reading 10](courses/code-401/class-10.md)
+
+[Reading 11](courses/code-401/class-11.md)
+
+[Reading 12](courses/code-401/class-12.md)
+
+[Reading 13](courses/code-401/class-13.md)
+
+[Reading 14](courses/code-401/class-14.md)
+
+[Reading 15](courses/code-401/class-15.md)
+
+[Reading 16](courses/code-401/class-16.md)
+
+[Reading 17](courses/code-401/class-17.md)
+
+[Reading 18](courses/code-401/class-18.md)
+
+[Reading 19](courses/code-401/class-19.md)
+
+[Reading 20](courses/code-401/class-20.md)
+
+[Reading 21](courses/code-401/class-21.md)
+
+[Reading 22](courses/code-401/class-22.md)
+
+[Reading 23](courses/code-401/class-23.md)
+
+[Reading 24](courses/code-401/class-24.md)
+
+[Reading 25](courses/code-401/class-25.md)
+
+[Reading 26](courses/code-401/class-26.md)
+
+[Reading 27](courses/code-401/class-27.md)
+
+[Reading 28](courses/code-401/class-28.md)
+
+[Reading 29](courses/code-401/class-29.md)
+
+[Reading 30](courses/code-401/class-30.md)
+
+[Reading 31](courses/code-401/class-31.md)
+
+[Reading 32](courses/code-401/class-32.md)
+
+[Reading 33](courses/code-401/class-33.md)
+
+[Reading 34](courses/code-401/class-34.md)
+
+[Reading 35](courses/code-401/class-35.md)
