@@ -96,6 +96,8 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 ## Code 401 - Advanced Software Development
 
+[Terminal Practice](courses/code-401/terminal-practice.md)
+
 [Reading 1](courses/code-401/class-01.md)
 
 [Reading 2](courses/code-401/class-02.md)
@@ -165,3 +167,4 @@ This is where I keep all of my class notes, projects, and other stream of consci
 [Reading 34](courses/code-401/class-34.md)
 
 [Reading 35](courses/code-401/class-35.md)
+
