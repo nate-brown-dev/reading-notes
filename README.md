@@ -98,6 +98,8 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Terminal Practice](courses/code-401/terminal-practice.md)
 
+[Introduction to SQL](courses/code-401/sql-bolt.md)
+
 [Data Structures and Algorithms](courses/code-401/data-structures-and-algorithms.md)
 
 [Reading 1](courses/code-401/class-01.md)
