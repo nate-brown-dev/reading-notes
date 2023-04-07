@@ -41,8 +41,16 @@ here
 
 ### Define normalization within the context of schemas and data
 
-here
+in SQL database, all records have to match the defined schema
+when records dont match the schema (eg data is missing) they have to be normalized
+normalizing applies defaults to the empty fields, or nulls, or something else so that the fields have data
 
 ### Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter
 
-here
+- one to one relationship: a record in one table is associated with a single record in another table
+  - one record is a student, the other record is the student's schedule
+- one to many relationship: a record in one table is associated with many records in another table
+  - one record is a student, the other records are all the student's schedules for every period they attended the school
+- many to many relationship: many records in one table match many records in another table
+  - one table is all students, another table is all classes. each student has multiple classes, and each class has multiple students
+  
