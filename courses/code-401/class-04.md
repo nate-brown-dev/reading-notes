@@ -37,7 +37,8 @@ foreign key: key in the table that matches primary key in another table
 
 ### How do we treat keywords and parameters differently in SQL syntax?
 
-here
+keywords are capitalized, parameters are not capitalized
+the keywords are reserved words
 
 ### Define normalization within the context of schemas and data
 
@@ -53,4 +54,3 @@ normalizing applies defaults to the empty fields, or nulls, or something else so
   - one record is a student, the other records are all the student's schedules for every period they attended the school
 - many to many relationship: many records in one table match many records in another table
   - one table is all students, another table is all classes. each student has multiple classes, and each class has multiple students
-  
