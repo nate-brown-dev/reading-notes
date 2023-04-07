@@ -102,6 +102,8 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Data Structures and Algorithms](courses/code-401/data-structures-and-algorithms.md)
 
+[Engineering Readings](courses/code-401/eng-readings.md)
+
 [Reading 1](courses/code-401/class-01.md)
 
 [Reading 2](courses/code-401/class-02.md)
