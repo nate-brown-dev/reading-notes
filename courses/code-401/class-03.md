@@ -1,30 +1,27 @@
 # Code 401 Reading 3
 
-Review: ES6 Classes
+## Review: ES6 Classes
 
-Classes are a template for creating ____.
+### Classes are a template for creating ____
 
-Can a class declaration be hoisted?
 
-How would you describe a constructor and contextual “this” to a non-technical 
-friend?
 
-Using Express Routing
+### Can a class declaration be hoisted?
 
-Within Express, what does routing refer to?
+### How would you describe a constructor and contextual “this” to a non-technical friend?
 
-What is the difference between a route path and a route method?
+## Using Express Routing
 
-When is it appropriate to add next as a parameter to a route handler and what must you do if next has been passed to your middleware as a parameter?
+### Within Express, what does routing refer to?
 
-Express Routing
+### What is the difference between a route path and a route method?
 
-What is an Express Router?
+### When is it appropriate to add next as a parameter to a route handler and what must you do if next has been passed to your middleware as a parameter?
 
-By what mean do we initialize express.Router() in an express server?
+## Express Routing
 
-What do we use route middleware for?
+### What is an Express Router?
 
-Reflection
+### By what mean do we initialize express.Router() in an express server?
 
-What are your learning goals after reading and reviewing the class README?
+### What do we use route middleware for?
