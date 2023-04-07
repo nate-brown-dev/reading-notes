@@ -4,9 +4,9 @@
 
 ### Explain middleware, answer as though I were a non-technical recruiter
 
-middleware is software that fills in the gaps between applications, users and data
-in cloud computing, middleware glues everything together like connective tissue
-in express, middleware adds functionality that doesn't exist in the base package, to address different kinds of web development problems
+- middleware is software that fills in the gaps between applications, users and data
+- in cloud computing, middleware glues everything together like connective tissue
+- in express, middleware adds functionality that doesn't exist in the base package, to address different kinds of web development problems
 
 ### Express the most popular ________ ?
 
@@ -14,14 +14,14 @@ Express is the most popular Node web framework
 
 ### Express is “unopinionated.” What does that mean?
 
-It means that Express doesn't specify the "right way" to do something
-Developers using express can choose whatever components they want to solve their problem and Express is ok with it
+- It means that Express doesn't specify the "right way" to do something
+- Developers using express can choose whatever components they want to solve their problem and Express is ok with it
 
 ### What is a module and why is modularity useful to us as developers?
 
-A module is a component that performs a specific purpose
-Modular components can be re-used
-Modularity makes code maintenance easier
+- A module is a component that performs a specific purpose
+- Modular components can be re-used
+- Modularity makes code maintenance easier
 
 ## What is NPM?
 
@@ -75,6 +75,6 @@ This video is unavailable because the user closed their Youtube account
 
 ### Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 
-Github is a central hub where developers on a project collaboratively work on a single project
-It allows the developers to work together, review each others work, decide what to keep or discard
-It saves everything so that developers always have access to the project
+- Github is a central hub where developers on a project collaboratively work on a single project
+- It allows the developers to work together, review each others work, decide what to keep or discard
+- It saves everything so that developers always have access to the project
