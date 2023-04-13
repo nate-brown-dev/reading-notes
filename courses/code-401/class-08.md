@@ -1,4 +1,4 @@
-# Code 401 Reading 7
+# Code 401 Reading 8
 
 ## 5 steps to RBAC
 
@@ -48,6 +48,13 @@ Then it means don't let people whose job doesn't involve something have access t
 
 ### What Are access rights Associated with? The User? or The Role? Explain
 
+The rights belong to the role, and the user doesn't get any rights without having the role
+
 ### Access Rights, or Authorization, is activated after a user successfully does what?
 
+Authenticates
+
 ### Explain how RBAC might benefit a business
+
+- can prevent users from changing files they shouldn't be changing, reduce wasted time/money
+- clear division of roles simplifies job performance : users only work on what role says they can
