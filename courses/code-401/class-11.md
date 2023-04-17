@@ -14,7 +14,7 @@
 ### Consider your knowledge of Event Driven Programming in the Web Browser, now explain to a non-technical friend how Event Driven Programming might be useful on the backend using Node.js
 
 - soundcloud
-- creater posts a new mix to cloud
+- creator posts a new mix to cloud
 - event is emitted: new mix posted
 - user that follows creator has event listener for new content from creators that user is following
 - new post handler is triggered
