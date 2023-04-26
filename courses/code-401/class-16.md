@@ -57,3 +57,5 @@ an AWS service that deploys and scales web servers for you
 - EB automates setting up AWS services
 - EB keeps you from spending lots of time doing sys admin tasks like load balancing
 - It lets you devote your time to your app instead
+
+[Go back home](/../reading-notes/)

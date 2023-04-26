@@ -58,3 +58,5 @@ Authenticates
 
 - can prevent users from changing files they shouldn't be changing, reduce wasted time/money
 - clear division of roles simplifies job performance : users only work on what role says they can
+
+[Go back home](/../reading-notes/)

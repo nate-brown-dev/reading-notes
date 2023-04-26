@@ -58,3 +58,5 @@
 - error messaging should return errors in a way that takes the same time for wrong usernames and passwords
 - this prevents intruder from distinguishing incorrect username vs password
 - error messaging should not return error codes in a way that allows it to be used for the same things
+
+[Go back home](/../reading-notes/)

@@ -59,3 +59,5 @@ No, class declarations go in the "temporal dead zone" like variables declared wi
 - Requests can be checked for authentication/authorization
 - Route middleware has to be placed in front of the routes in the server, so that the requests go through the middleware first
 - If the routes are before the middleware, it doesn't get used because the requests go directly to the route
+
+[Go back home](/../reading-notes/)

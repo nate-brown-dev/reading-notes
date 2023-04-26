@@ -20,4 +20,4 @@
 - new post handler is triggered
 - new mix is added to user's feed
 
-[Go back home](/reading-notes/)
+[Go back home](/../reading-notes/)

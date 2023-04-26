@@ -54,3 +54,5 @@ CREATE a DIAGRAM
   - one record is a student, the other records are all the student's schedules for every period they attended the school
 - many to many relationship: many records in one table match many records in another table
   - one table is all students, another table is all classes. each student has multiple classes, and each class has multiple students
+
+[Go back home](/../reading-notes/)

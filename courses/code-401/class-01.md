@@ -40,4 +40,4 @@
 
 - Jest, AWS, azure/other cloud providers (might not get much coverage?)
 
-[Go back home](/reading-notes/)
+[Go back home](/../reading-notes/)

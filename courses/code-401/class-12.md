@@ -78,3 +78,5 @@ TCP handshake goes like this:
 1. client (you) sends sync request (SYN) to server, with a sequence number and a SYN number
 2. server responds with sync acknowledgement (SYN-ACK), with sequence number incremented by 1, as "ACK Number", and same SYN number
 3. client sends acknowledgement (ACK), with SYN number reset to 0
+
+[Go back home](/../reading-notes/)

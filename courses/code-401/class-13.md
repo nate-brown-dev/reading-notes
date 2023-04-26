@@ -60,3 +60,5 @@ an online store with multiple departments
 - shopping cart
 - product reviews
 - employee communication
+
+[Go back home](/../reading-notes/)

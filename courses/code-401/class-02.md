@@ -78,3 +78,5 @@ This video is unavailable because the user closed their Youtube account
 - Github is a central hub where developers on a project collaboratively work on a single project
 - It allows the developers to work together, review each others work, decide what to keep or discard
 - It saves everything so that developers always have access to the project
+
+[Go back home](/../reading-notes/)

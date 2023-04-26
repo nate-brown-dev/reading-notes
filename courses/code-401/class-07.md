@@ -65,3 +65,5 @@
 - secret
 
 then all 3 things are combined and hashed
+
+[Go back home](/../reading-notes/)
