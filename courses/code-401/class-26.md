@@ -65,4 +65,16 @@ React only changes DOM nodes if there is a difference between renders
 
 "browser painting" is actually browser rendering but is called "painting" to distinguish from React rendering
 
+## Additional Questions
+
+### Note the naming conventions in the Airbnb React/JSX Style Guide. What pattern(s) do you see?
+
+A lot of the rules in this guide are rules that I was already using in 301
+
+### Looking ahead at this module’s course schedule, What do you look forward to learning?
+
+hash tables, open source contributions, finalizing CAP stuff, more practice with white boards
+
+if I'm being honest I'm not that interested in React/front end stuff
+
 [Go back home](/../reading-notes/)
