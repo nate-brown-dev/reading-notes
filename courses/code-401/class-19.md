@@ -35,3 +35,5 @@ referenced here [https://docs.aws.amazon.com/sns/latest/dg/sns-mobile-applicatio
 ### How might a large scale, distributed application make use of a Queue system like SQS?
 
 an example was in the previous video - for Amazon retail, a single completed notification (SNS) has multiple SQS endpoints, examples of this would be "leave a product review" queue, "order again" queue, queues for amazon employee QA / analytics. Combine this with many notification generators (customers) and you have lots of message traffic going to many queue endpoints
+
+[Go back home](/../reading-notes/)
