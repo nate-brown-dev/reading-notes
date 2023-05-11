@@ -6,6 +6,12 @@
 
 synchronize with some kind of external system
 
+let you specify side effects that are caused by rendering, rather than by an event
+
+- control non-react component based on React state
+- set up server connection
+- send analytics log
+
 ### How does the effect’s logic interact with the component?
 
 - when the component is added to the DOM, React runs the setup function
@@ -16,6 +22,8 @@ synchronize with some kind of external system
 
 ### What is the importance of the return value from the effect’s logic function?
 
-the function returns undefined on the 1st render
+the logic function should return the cleanup function, that should stop or undo whatever the Effect was doing
 
-state changes in react are asynchronous so it can't return anything besides undefined on the first render
+when the logic function runs again, it should be indistinguishable from the first run
+
+running clean-up helps make this happen
