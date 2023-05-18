@@ -10,11 +10,11 @@ RBAC is a methodology for restricting network access based on a person's role in
 
 permissions methodology for my pokemon app written in week 2:
 
-GET     /pokemon      Lists all pokemon         Only pokemon masters and gym leaders have access
-POST    /pokemon      Creates new pokemon       Only pokemon masters and gym leaders have access
-GET     /pokemon/:id  Gets the :id pokemon      Pokemon masters, gym leaders, plus those trainers who have that pokemon have access
-PATCH   /pokemon/:id  Updates the :id pokemon   Pokemon masters, gym leaders, plus those trainers who have that pokemon have access
-DELETE  /pokemon/:id  Deletes the :id pokemon   Pokemon masters, gym leaders, plus those trainers who have that pokemon have access
+- GET     /pokemon      Lists all pokemon         Only pokemon masters and gym leaders have access
+- POST    /pokemon      Creates new pokemon       Only pokemon masters and gym leaders have access
+- GET     /pokemon/:id  Gets the :id pokemon      Pokemon masters, gym leaders, plus those trainers who have that pokemon have access
+- PATCH   /pokemon/:id  Updates the :id pokemon   Pokemon masters, gym leaders, plus those trainers who have that pokemon have access
+- DELETE  /pokemon/:id  Deletes the :id pokemon   Pokemon masters, gym leaders, plus those trainers who have that pokemon have access
 
 adapted from here: https://www.toptal.com/firebase/role-based-firebase-authentication
 
