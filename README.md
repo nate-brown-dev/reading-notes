@@ -172,5 +172,6 @@ This is where I keep all of my class notes, projects, and other stream of consci
 
 [Reading 34](courses/code-401/class-34.md)
 
-[Reading 35](courses/code-401/class-35.md)
+[Reading 35](courses/code-401/class-36.md)
 
+[Reading 37](courses/code-401/class-37.md)
