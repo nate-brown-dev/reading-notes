@@ -43,3 +43,15 @@ Mobx makes sure that all the derivations and reactions occur anytime the state c
 ### How would we build a reactive user interface?
 
 to build a reactive user interface with mobx, you wrap the react component in `autorun` and make the component `observable`
+
+## Tutorial
+
+### What take-away(s) did this tutorial provide?
+
+the goal of RTK is to simplify common Redux use cases
+
+RTK configure store gives you
+
+- an options object with named parameters
+- Redux Devtools extension enabled automatically
+- redux thunk added by default
